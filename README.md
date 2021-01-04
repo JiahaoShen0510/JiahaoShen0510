@@ -4,9 +4,9 @@ Envision of creating the own idealized world with a cat.
 
 Big Data practcitioner, CompTIA CySA+ & PenTest+ Certifications in progress, AWS Machine Learning Certificate, Microsoft Azure Data Scientist Certificate and Google Cloud Machine Learning Certificate in plan.
 
-Advanced projects in works with the strong mindset of landing the whole profrssional job.
+Advanced projects in works with the strong mindset of landing the whole profrssional job. Have the work experiences in Human Resource and Corporate Training, Museum, Special Education, and Natural Environment.
 
-Future graduate student in King's College London with study in International Affairs: Cyber Security. 
+Future graduate student in King's College London with study in International Affairs: Cyber Security, which the study is expected to symbolize the culmination of my education journey. Previously studied in University of Oklahoma with M.Ed. in Higher Education (2020.12) and James Madison University with B.A. in History & Asian Studies (2017.12). 
 
 My Linkedin: https://www.linkedin.com/in/jiahao-shen-13b437123/
 
