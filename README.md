@@ -11,3 +11,5 @@ Future graduate student in King's College London with study in International Aff
 My Linkedin: https://www.linkedin.com/in/jiahao-shen-13b437123/
 
 King's College London: https://www.kcl.ac.uk/
+
+CompTIA: https://www.comptia.org/home
