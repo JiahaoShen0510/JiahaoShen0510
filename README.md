@@ -6,4 +6,8 @@ Big Data practcitioner, CompTIA CySA+ & PenTest+ Certifications in progress, AWS
 
 Advanced projects in works with the strong mindset of landing the whole profrssional job.
 
+Future graduate student in King's College London with study in International Affairs: Cyber Security. 
+
 Linkedin: https://www.linkedin.com/in/jiahao-shen-13b437123/
+
+King's College London: https://www.kcl.ac.uk/
