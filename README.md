@@ -5,7 +5,7 @@ Envision of creating the own idealized world with a cat.
 
 Big Data practcitioner, CompTIA CySA+ & PenTest+ Certifications in progress, AWS Machine Learning Certificate, Microsoft Azure Data Scientist Certificate and Google Cloud Machine Learning Engineer Certificate in plan.
 
-Advanced projects in works with the strong mindset of landing the whole profrssional job. Currently hold the assistant position in data analysis at a local real-estate company. Also have the work experiences in Human Resource and Corporate Training, Real-Estate Management, Library, Museum, Special Education, and Natural Environment.
+Advanced projects in works with the strong mindset of landing the whole profrssional job. Currently hold the assistant position in data analysis at a local real-estate company. Also have the work experiences in Human Resource and Corporate Training, Real-Estate Management, Education Quantitative Research, Library, Museum, Special Education, and Natural Environment.
 
 Future graduate student in King's College London with study in International Affairs: Cyber Security, which the study is expected to symbolize the culmination of my education journey. Previously studied in University of Oklahoma with M.Ed. in Higher Education (2020.12) and James Madison University with B.A. in History & Asian Studies (2017.12). 
 
