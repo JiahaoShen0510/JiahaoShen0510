@@ -1,3 +1,6 @@
+Also known as 沈嘉昊 in Chinese, and ちんかこう in Japanese Hiragana. 
+
+
 Born and grew up in Shanghai, China, educated and enlightened in America, and soon in Britain. 
 An independent thinker who is continuously struggling for the world but meanwhile endlessly seeking for its essence and eternity. 
 Devote to the fields of History, Digital Arts, and Big Data as the lifetime missions. 
