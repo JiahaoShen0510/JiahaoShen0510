@@ -14,4 +14,3 @@ My Linkedin: www.linkedin.com/in/jiahao-shen-19940510
 
 King's College London: https://www.kcl.ac.uk/
 
-CompTIA: https://www.comptia.org/home
