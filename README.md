@@ -8,7 +8,7 @@ Envision of creating the own idealized world with a cat.
 
 Big Data practcitioner. Advanced projects in works with the strong mindset of landing the whole profrssional job. Currently hold the assistant position in data analysis at a local real-estate company. Also have the work experiences in Real-Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Environment.
 
-Currently the postgraduate student in King's College London with study in International Affairs: Cyber Security (Master of Arts), which the study is expected to symbolize the culmination of my education journey. In pursuit of TensorFlow certification, and CompTIA CySA+ & PenTest+ certifications as part of the degree plan. Previously studied in University of Oklahoma with M.Ed. in Higher Education (2020.12) and James Madison University with B.A. in History & Asian Studies (2017.12). 
+Now enrolled as the postgraduate student in King's College London with study in International Affairs: Cyber Security (Master of Arts), which the study is expected to symbolize the culmination of my education journey. In pursuit of TensorFlow certification, and CompTIA CySA+ & PenTest+ certifications as part of the degree plan. Previously studied in University of Oklahoma with M.Ed. in Higher Education (2020.12) and James Madison University with B.A. in History & Asian Studies (2017.12). 
 
 My Linkedin: www.linkedin.com/in/jiahao-shen-19940510
 
