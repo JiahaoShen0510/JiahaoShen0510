@@ -10,7 +10,7 @@ Big Data practcitioner. Advanced projects in works with the strong mindset of la
 
 Now enrolled as the postgraduate student in King's College London with study in International Affairs: Cyber Security (Master of Arts), which the study is expected to symbolize the culmination of my education journey. In pursuit of CompTIA CySA+ & CompTIA PenTest+ certifications as part of the degree plan. Currently researching about the conflicts of great power and civilizations,and their transformed and continued contributions to the security dilemma in the age of big data.  
 
-Previously studied in University of Oklahoma with M.Ed. in Higher Education (2020.12) and James Madison University with B.A. in History & Asian Studies (2017.12). Also an ongoing learner on the Udemy for topics of big data, business and digital arts and is learning Japanese through Fukuoka International Academy. 
+Previously studied in University of Oklahoma with M.Ed. in Higher Education (2020.12) and James Madison University with B.A. in History & Asian Studies (2017.12). Also an ongoing learner on the Udemy for topics of big data, business and digital arts and is learning Japanese language through Fukuoka International Academy. 
 
 My Linkedin: www.linkedin.com/in/jiahao-shen-19940510
 
