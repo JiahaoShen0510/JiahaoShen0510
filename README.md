@@ -15,7 +15,7 @@ Big Data practcitioner. Specialize in algorithm and data structure challenges wi
 ## Work Experiences
 Currently hold the assistant position in data analysis at a local real-estate company. Also have the work experiences in Real-Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Environment.
 
-## Education History: King's College London
+## Education History: King's College London (Ongoing)
 Now enrolled as the postgraduate student in King's College London with study in International Affairs: Cyber Security (Master of Arts), which the study is expected to symbolize the culmination of my education journey. In pursuit of CompTIA CySA+ & CompTIA PenTest+ certifications as part of the degree plan. Currently researching the global interactions of civilizations in the age of big data. 
 
 ## Education History: Other Parts
