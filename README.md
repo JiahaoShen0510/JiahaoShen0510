@@ -5,7 +5,7 @@ Also known as 沈嘉昊 in Chinese, and ちんかこう in Japanese Hiragana.
 
 Born and grew up in Shanghai, China, educated and enlightened in America, and currently in Britain. 
 An independent thinker who is continuously struggling for the world but meanwhile endlessly seeking for its essence and eternity. 
-Devote to the fields of History, Big Data and Digital Arts as the lifetime missions. 
+Devote to the fields of Humanities, Big Data and Digital Arts as the lifetime missions. 
 Envision of creating the own idealized world with a cat. 
 
 ## Technicial Specialization
