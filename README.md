@@ -10,9 +10,13 @@ Envision of creating the own idealized world with a cat.
 
 ## Technicial Specialization
 
-Big Data practcitioner. Specialize in algorithm and data structure challenges with Javascript; data analysis with python (NumPy, Pandas, Statsmodels, Matplotlib, Seaborn and Scikit-Learn); mainstream deep learning techniques (K Means, Naive Bayes Classifier,Decision Tree/Random Forest and XGBoost); general Neural Network model, Convolutional Neural Network model with the TensorFlow. 
+Big Data practcitioner. 
+Specialize in algorithm and data structure challenges with Javascript; data analysis with python (NumPy, Pandas, Statsmodels, Matplotlib, Seaborn and Scikit-Learn); 
+mainstream deep learning techniques (K Means, Naive Bayes Classifier,Decision Tree/Random Forest and XGBoost); 
+and general Neural Network model, Convolutional Neural Network model with the TensorFlow. 
 
 ## Work Experiences
+2+ years of experiences in data science field (part-time & full-time combined).
 Currently hold the assistant position in data analysis at a local real-estate company. Also have the work experiences in Real-Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Environment.
 
 ## Education History: King's College London (Ongoing)
