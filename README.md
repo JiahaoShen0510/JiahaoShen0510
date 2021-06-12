@@ -11,13 +11,17 @@ Envision of creating the own idealized world with a cat.
 ## Technicial Specialization
 
 Big Data practcitioner. 
+
 Specialize in algorithm and data structure challenges with Javascript; data analysis with python (NumPy, Pandas, Statsmodels, Matplotlib, Seaborn and Scikit-Learn); 
 mainstream deep learning techniques (K Means, Naive Bayes Classifier,Decision Tree/Random Forest and XGBoost); 
 and general Neural Network model, Convolutional Neural Network model with the TensorFlow. 
 
 ## Work Experiences
 2+ years of experiences in data science field (part-time & full-time combined).
-Currently hold the assistant position in data analysis at a local real-estate company. Also have the work experiences in Real-Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Environment.
+
+Currently hold the assistant position in data analysis at a local real-estate company. 
+
+Also have the work experiences in Real-Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Environment.
 
 ## Education History: King's College London (Ongoing)
 Now enrolled as the Postgraduate student in King's College London with study in International Affairs: Cyber Security (Master of Arts), which the study is expected to symbolize the culmination of my education journey. In pursuit of CompTIA CySA+ & CompTIA PenTest+ certifications as part of the degree plan. Currently researching the global interactions of civilizations in the age of big data. 
