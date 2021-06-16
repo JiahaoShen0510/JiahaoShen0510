@@ -35,7 +35,7 @@ In pursuit of CompTIA CySA+ & CompTIA PenTest+ certifications and will work as t
 
 ## Education History: Other Parts
 
-Previously studied in University of Oklahoma with M.Ed. in Higher Education with green belt certification in Lean Six Sigma (2020.12) and James Madison University with B.A. in History & Asian Studies (2017.12). Completed the whole K-12 study in Shanghai No.3 Central School & Shanghai Qingyun School (2000-2012).
+Previously studied in University of Oklahoma with M.Ed. in Higher Education (2020.12), and James Madison University with B.A. in History & Asian Studies (2017.12). Completed the whole K-12 study in Shanghai No.3 Central School & Shanghai Qingyun School (2000-2012).
 
 ## More Information
 
