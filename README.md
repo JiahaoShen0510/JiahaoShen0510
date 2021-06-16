@@ -16,7 +16,7 @@ Envision of creating the own idealized world with a cat.
 
 Big Data practcitioner. 
 
-Specialize in algorithm and data structure challenges with Javascript; data analysis with python (NumPy, Pandas, Statsmodels, Matplotlib, Seaborn and Scikit-Learn); 
+Specialize in algorithm and data structure solutions with Javascript; data analysis with python (NumPy, Pandas, Statsmodels, Matplotlib, Seaborn and Scikit-Learn); 
 mainstream deep learning techniques (K Means, Naive Bayes Classifier,Decision Tree/Random Forest and XGBoost); 
 and general Neural Network model, Convolutional Neural Network model with the TensorFlow. 
 
@@ -28,13 +28,14 @@ Currently hold the assistant position in data analysis at a local real-estate co
 Also have the work experiences in Real-Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Environment.
 
 ## Education History: King's College London (Ongoing)
-Now enrolled as the Postgraduate student in King's College London with study in International Affairs: Cyber Security (Master of Arts). which the study is expected to symbolize the culmination of my education journey. 
+Now enrolled as the Postgraduate student in King's College London with study in International Affairs: Cyber Security (Master of Arts).
+The study is expected to symbolize the culmination of my education journey. 
 
-In pursuit of CompTIA CySA+ & CompTIA PenTest+ certifications as part of the degree plan. Currently researching the global interactions of civilizations in the age of big data. 
+In pursuit of CompTIA CySA+ & CompTIA PenTest+ certifications and will work as the research fellow at KCL Cybersecurity Centre (start on January 2022) as the degree plan. 
 
 ## Education History: Other Parts
 
-Previously studied in University of Oklahoma with M.Ed. in Higher Education (2020.12) and James Madison University with B.A. in History & Asian Studies (2017.12). Completed the whole K-12 study in Shanghai No.3 Central School & Shanghai Qingyun School (2000-2012).
+Previously studied in University of Oklahoma with M.Ed. in Higher Education with green belt certification in Lean Six Sigma (2020.12) and James Madison University with B.A. in History & Asian Studies (2017.12). Completed the whole K-12 study in Shanghai No.3 Central School & Shanghai Qingyun School (2000-2012).
 
 ## More Information
 
