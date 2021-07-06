@@ -33,6 +33,8 @@ The study is expected to symbolize the culmination of my education journey.
 
 In pursuit of CompTIA CySA+ & CompTIA PenTest+ certifications and will work as the research fellow at KCL Cybersecurity Centre (start on January 2022) as the degree plan. 
 
+Research Topics: Transformation of Multi-Civilizational World, Historical Interactions among Great Powers, and Big Data Impacts on Political and Societal Structures. 
+
 ## Education History: Other Parts
 
 Previously studied in University of Oklahoma with M.Ed. in Higher Education (2020.12), and James Madison University with B.A. in History & Asian Studies (2017.12). Completed the whole K-12 study in Shanghai No.3 Central School & Shanghai Qingyun School (2000-2012).
