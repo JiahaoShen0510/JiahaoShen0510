@@ -39,7 +39,9 @@ Previously studied in University of Oklahoma with M.Ed. in Higher Education (202
 
 ## More Information
 
-My Linkedin: www.linkedin.com/in/jiahao-shen-19940510
+Linkedin: www.linkedin.com/in/jiahao-shen-19940510
+
+Instagram: https://www.instagram.com/jiahaoshen0510/
 
 King's College London: https://www.kcl.ac.uk/
 
