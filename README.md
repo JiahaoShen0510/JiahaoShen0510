@@ -1,6 +1,6 @@
 ## Introduction
 
-Also known as 沈嘉昊 in Chinese, and ちんかこう in Japanese Hiragana. 
+Also known as 沈嘉昊 in Chinese, and しんかこう in Japanese Hiragana. 
 
 
 Born and grew up in Shanghai, China, educated and enlightened in America, and currently in Britain. 
