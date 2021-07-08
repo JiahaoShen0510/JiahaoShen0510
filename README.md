@@ -12,7 +12,7 @@ Devote to the fields of Humanities, Big Data and Digital Arts as the lifetime mi
 
 Envision of creating the own idealized world with a cat. 
 
-## Technicial Specialization
+## Technical Specialization
 
 Big Data practcitioner. 
 
