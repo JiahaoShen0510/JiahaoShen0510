@@ -33,7 +33,7 @@ The study is expected to symbolize the culmination of my education journey.
 
 In pursuit of CompTIA CySA+ & CompTIA PenTest+ certifications and will work as the research fellow at KCL Cybersecurity Centre (start on January 2022) as the degree plan. 
 
-Research Topics: Transformation of Multi-Civilizational World; Historical Interactions among Great Powers; Big Data Impacts on Political and Societal Structures. 
+Research Topics: Transformation of Multi-Civilizational World; Historical Interactions among Great Powers; Remaking of East Asian World Order; Big Data Impacts on Political and Societal Structures.
 
 ## Education History: Other Parts
 
