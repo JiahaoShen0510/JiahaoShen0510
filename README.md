@@ -14,7 +14,7 @@ Envision of creating the own idealized world with a cat.
 
 ## Technical Specialization
 
-Big Data practcitioner. 
+Big Data practitioner. 
 
 Specialize in algorithm and data structure solutions with Javascript; data analysis with python (NumPy, Pandas, Statsmodels, Matplotlib, Seaborn and Scikit-Learn); 
 mainstream deep learning techniques (K Means, Naive Bayes Classifier,Decision Tree/Random Forest and XGBoost); 
