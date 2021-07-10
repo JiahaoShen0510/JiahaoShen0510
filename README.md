@@ -35,6 +35,8 @@ In pursuit of CompTIA CySA+ & CompTIA PenTest+ certifications and will work as t
 
 Research Topics: Transformation of Multi-Civilizational World; Historical Interactions among Great Powers; Remaking of East Asian World Order; Big Data Impacts on Political and Societal Structures.
 
+All my published works during my KCL study could be accessed there: https://medium.com/@shenkcl
+
 ## Education History: Other Parts
 
 Previously studied in University of Oklahoma with M.Ed. in Higher Education (2020.12), and James Madison University with B.A. in History & Asian Studies (2017.12). Completed the whole K-12 study in Shanghai No.3 Central School & Shanghai Qingyun School (2000-2012).
