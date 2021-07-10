@@ -35,7 +35,7 @@ In pursuit of CompTIA CySA+ & CompTIA PenTest+ certifications and will work as t
 
 Research Topics: Transformation of Multi-Civilizational World; Historical Interactions among Great Powers; Remaking of East Asian World Order; Big Data Impacts on Political and Societal Structures.
 
-All my published works during my KCL study could be accessed there: https://medium.com/@shenkcl
+All of my published works during my KCL study could be accessed there: https://medium.com/@shenkcl
 
 ## Education History: Other Parts
 
