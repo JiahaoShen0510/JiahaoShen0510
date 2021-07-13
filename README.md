@@ -31,7 +31,7 @@ Also have the work experiences in Real-Estate Management, Human Resource and Cor
 Now enrolled as the Postgraduate student in King's College London with study in International Affairs: Cyber Security (Master of Arts).
 The study is expected to commemorate my critical transition to the career of big data field. 
 
-In pursuit of CompTIA CySA+ & CompTIA PenTest+ certifications and will work as the research fellow at KCL Cybersecurity Centre (start on January 2022) as the degree plan. 
+In pursuit of CompTIA CySA+ & CompTIA PenTest+ certifications and will work as the research fellow at KCL Cybersecurity Centre (start on January 2022) as part of the degree plan. 
 
 Research Topics: Transformation of Multi-Civilizational World; Historical Interactions among Great Powers; Big Data Impacts on Political and Societal Structures.
 
