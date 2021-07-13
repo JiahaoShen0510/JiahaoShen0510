@@ -29,7 +29,7 @@ Also have the work experiences in Real-Estate Management, Human Resource and Cor
 
 ## Education History: King's College London (Ongoing)
 Now enrolled as the Postgraduate student in King's College London with study in International Affairs: Cyber Security (Master of Arts).
-The study is expected to symbolize the culmination of my education journey. 
+The study is expected to commemorate my critical transition to the career of big data field. 
 
 In pursuit of CompTIA CySA+ & CompTIA PenTest+ certifications and will work as the research fellow at KCL Cybersecurity Centre (start on January 2022) as the degree plan. 
 
