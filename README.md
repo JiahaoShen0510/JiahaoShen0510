@@ -12,8 +12,6 @@ Envision of creating the own idealized world with a cat.
 
 Big Data practitioner. 
 
-In pursuit of the CompTIA CySA+ & PenTest+ certifications. 
-
 Specialize in algorithm and data structure solutions with Javascript; data analysis with python (NumPy, Pandas, Statsmodels, Matplotlib, Seaborn and Scikit-Learn); 
 mainstream deep learning techniques (K Means, Naive Bayes Classifier,Decision Tree/Random Forest and XGBoost); 
 and general Neural Network model, Convolutional Neural Network model with the TensorFlow. 
@@ -28,6 +26,8 @@ Also have the work experiences in Real-Estate Management, Human Resource and Cor
 ## Education History: King's College London (Ongoing)
 Now enrolled as the Postgraduate student in King's College London with study in International Affairs: Cyber Security (Master of Arts).
 The study is expected to commemorate and symbolize the culmination of my education journey. 
+
+In pursuit of the CompTIA CySA+ & PenTest+ Certifications. 
 
 Research Topics: Transformation of Multi-Civilizational World; Historical Interactions among Great Powers; Big Data Impacts on Political and Societal Structures.
 
