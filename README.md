@@ -27,8 +27,6 @@ Also have the work experiences in Real-Estate Management, Human Resource and Cor
 Now enrolled as the Postgraduate student in King's College London with study in International Affairs: Cyber Security (Master of Arts).
 The study is expected to commemorate and symbolize the culmination of my education journey. 
 
-In pursuit of the CompTIA CySA+ & CompTIA PenTest+ Certifications. 
-
 Research Topics: Transformation of Multi-Civilizational World; Historical Interactions among Great Powers; Big Data Impacts on Political and Societal Structures.
 
 All of my published works during my KCL study could be accessed there: https://medium.com/@shenkcl
