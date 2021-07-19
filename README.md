@@ -23,7 +23,7 @@ Currently hold the assistant position in data analysis at a local real-estate co
 
 Also have the work experiences in Real-Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Environment.
 
-## Education History: King's College London (Ongoing)
+## Education History: King's College London (2021.5-present)
 Currently enrolled as the Postgraduate student in King's College London with studies of 
 International Affairs: Cyber Security and World History & Philosophy (Master of Arts).
 The studies are expected to commemorate and symbolize the culmination of my education journey. 
@@ -34,7 +34,7 @@ All of the published works during my KCL studies could be accessed there: https:
 
 ## Education History: Other Parts
 
-Previously studied in University of Oklahoma with M.Ed. in Higher Education (2020.12), and James Madison University with B.A. in History & Asian Studies (2017.12).
+Previously studied in University of Oklahoma with M.Ed. in Higher Education (2018.8-2020.12), and James Madison University with B.A. in History & Asian Studies (2014.1-2017.12).
 
 ## More Information
 
