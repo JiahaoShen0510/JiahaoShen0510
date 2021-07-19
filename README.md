@@ -34,7 +34,7 @@ All of the published works during my KCL studies could be accessed there: https:
 
 ## Education History: Other Parts
 
-Previously studied in University of Oklahoma with M.Ed. in Higher Education (2018.8-2020.12), and James Madison University with B.A. in History & Asian Studies (2014.1-2017.12).
+Previously studied in James Madison University with B.A. in History & Asian Studies (2014.1-2017.12), and University of Oklahoma with M.Ed. in Higher Education (2018.8-2020.12). 
 
 ## More Information
 
