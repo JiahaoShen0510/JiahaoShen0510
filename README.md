@@ -41,6 +41,3 @@ Previously studied in James Madison University with B.A. in History & Asian Stud
 Linkedin: www.linkedin.com/in/jiahao-shen-19940510
 
 Instagram: https://www.instagram.com/jiahaoshen0510/
-
-King's College London: https://www.kcl.ac.uk/
-
