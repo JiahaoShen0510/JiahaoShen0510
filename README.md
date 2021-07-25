@@ -24,9 +24,9 @@ Currently hold the assistant position in data analysis at a local real-estate co
 Also have the work experiences in Real-Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Environment.
 
 ## Education History: King's College London (2021.5-present)
-Currently enrolled as the Postgraduate student in King's College London with studies of 
-International Affairs: Cyber Security and World History & Philosophy (Master of Arts).
-The studies are expected to commemorate and symbolize the culmination of my education journey. 
+Currently pursuing the Postgraduate studies of 
+International Affairs: Cyber Security and World History & Philosophy (Master of Arts) at King's College London.
+The studies are expected to be the symbol of culmination of my education journey. 
 
 Research Topics: Transformation of Multi-Civilizational World; Historical Interactions among Great Powers; Big Data Impacts on Political and Societal Structures.
 
