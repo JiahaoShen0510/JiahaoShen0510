@@ -32,9 +32,12 @@ Research Topics: Transformation of Multi-Civilizational World; Historical Intera
 
 All of the published works during my KCL studies could be accessed there: https://medium.com/@shenkcl
 
-## Education History: Other Parts
+## Education History: Other Higher Education
 
-Previously studied in James Madison University with B.A. in History & Asian Studies (2014.1-2017.12), and University of Oklahoma with M.Ed. in Higher Education (2018.8-2020.12). 
+Previously studied in James Madison University with B.A. in History & Asian Studies (2014.1-2017.12), and University of Oklahoma with M.Ed. in Higher Education (2018.8-2020.12).
+
+## Education History: Other Parts
+An ongoing student at the Udemy, currently studying Japanese language at Fukuoka International Academy (2021.7-present), and completed the whole K-12 system at Shanghai Qingyun School (2000-2012). 
 
 ## More Information
 
