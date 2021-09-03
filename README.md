@@ -25,7 +25,7 @@ Also have the work experiences in Real-Estate Management, Human Resource and Cor
 
 ## Education History: King's College London (2021.5-present)
 Currently pursuing the Postgraduate studies of 
-International Affairs: Cyber Security and World History & Philosophy (Master of Arts) at King's College London.
+International Affairs: Cyber Security and World History & Philosophy at King's College London.
 The studies are expected to be the symbol of culmination of my education journey. 
 
 Research Topics: Transformation of Multi-Civilizational World; Historical Interactions among Great Powers; Big Data Impacts on Political and Societal Structures.
