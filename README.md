@@ -39,7 +39,7 @@ All of the published works during my KCL studies could be accessed there: https:
 Previously studied in James Madison University with B.A. in History & Asian Studies (2014.1-2017.12), and University of Oklahoma with M.Ed. in Higher Education (2018.8-2020.12).
 
 ## Education History: Other Education
-Completed the whole K-12 Education at Shanghai Qingyun School (2000-2012), and currently receiveing the Japanese language training at Fukuoka International Academy (since 2021.7) as the necessary part of transitioning the life into Fukuoka, Japan.
+Currently receiveing the Japanese language training at Fukuoka International Academy (since 2021.7) as the necessary part of transitioning the life into Fukuoka, Japan. Completed the whole K-12 Education at Shanghai Qingyun School (2000-2012).
 
 
 ## More Information
