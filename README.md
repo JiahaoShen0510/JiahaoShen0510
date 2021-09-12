@@ -25,7 +25,7 @@ Currently hold the assistant position in data analysis at a local real-estate co
 
 Also have the work experiences in Real-Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Environment.
 
-## Practitioner for the virtual worlds
+## Practitioner for the Virtual Worlds
 Certificate in Advanced Football Tactical Analysis (Barça Innovation Hub)
 
 Certificate in Virtual Reality (Goldsmiths, University of London)
