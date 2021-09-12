@@ -12,6 +12,8 @@ Envision of creating the own idealized world with a cat.
 
 Big Data practitioner. 
 
+Postgraduate Certificate in Artificial Intelligence and Machine Learning (University of Texas at Austin: McCombs School of Business), in progress.
+
 Specialize in algorithm and data structure solutions with Javascript; data analysis with python (NumPy, Pandas, Statsmodels, Matplotlib, Seaborn and Scikit-Learn); 
 mainstream deep learning techniques (K Means, Naive Bayes Classifier,Decision Tree/Random Forest and XGBoost); 
 and general Neural Network model, Convolutional Neural Network model with the TensorFlow. 
@@ -35,6 +37,9 @@ All of the published works during my KCL studies could be accessed there: https:
 ## Education History: Other Higher Education
 
 Previously studied in James Madison University with B.A. in History & Asian Studies (2014.1-2017.12), and University of Oklahoma with M.Ed. in Higher Education (2018.8-2020.12).
+
+## Education History: Other Education
+Completed the whole K-12 Education at Shanghai Qingyun School (2000-2012), and currently receiveing the Japanese language training at Fukuoka International Academy (since 2021.7) as the necessary part of transitioning the life into Fukuoka, Japan.
 
 
 ## More Information
