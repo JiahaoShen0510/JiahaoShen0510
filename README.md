@@ -12,7 +12,7 @@ Envision of creating the own idealized world with a cat.
 
 Big Data practitioner. 
 
-Postgraduate Certificate in Artificial Intelligence and Machine Learning (University of Texas at Austin: McCombs School of Business), in progress.
+Postgraduate Certificate in Artificial Intelligence and Machine Learning (University of Texas at Austin: McCombs School of Business).
 
 Specialize in algorithm and data structure solutions with Javascript; data analysis with python (NumPy, Pandas, Statsmodels, Matplotlib, Seaborn and Scikit-Learn); 
 mainstream deep learning techniques (K Means, Naive Bayes Classifier,Decision Tree/Random Forest and XGBoost); 
@@ -34,7 +34,7 @@ Rely on the thorough immersion of the virtual football world and virtual open wo
 
 Dedicate to seamlessly connect the virtual worlds and world in reality, and ultimately being thrived in both of them through their established interdependence and interconnections, and meanwhile faithfully pursuing the co-living in that two kinds of worlds.
 
-## Education History: King's College London (2021.5-present)
+## Education History: King's College London (ongoing)
 Currently pursuing the Postgraduate studies of 
 International Affairs: Cyber Security and World History & Philosophy at King's College London.
 The studies are expected to be the symbol of culmination of my education journey. 
