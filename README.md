@@ -39,7 +39,8 @@ Currently pursuing the Postgraduate studies of
 International Affairs: Cyber Security and World History & Philosophy at King's College London.
 The studies are expected to be the symbol of culmination of my education journey. 
 
-Research Topics: Transformation of Multi-Civilizational World; Historical Interactions among Great Powers; Big Data Impacts on Political and Societal Structures.
+Research Topics: Transformation of Multi-Civilizational World; Historical Interactions among Great Powers; Big Data Impacts on Political and Societal Structures;
+Historical Mind of Grand Strategy.
 
 All of the published works during my KCL studies could be accessed there: https://medium.com/@shenkcl
 
