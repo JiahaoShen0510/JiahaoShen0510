@@ -12,11 +12,15 @@ Envision of creating the own idealized world with a cat.
 
 Big Data practitioner. 
 
+Specialization Certificate in Deep Learning (DeepLearning.AI), in progress.
+
 Postgraduate Certificate in Artificial Intelligence and Machine Learning (University of Texas at Austin: McCombs School of Business).
 
-Specialize in algorithm and data structure solutions with Javascript; data analysis with python (NumPy, Pandas, Statsmodels, Matplotlib, Seaborn and Scikit-Learn); 
-mainstream deep learning techniques (K Means, Naive Bayes Classifier,Decision Tree/Random Forest and XGBoost); 
-and general Neural Network model, Convolutional Neural Network model with the TensorFlow. 
+Projects: Algorithm Solutions; Machine Learning Prediction Models; Image Classifications.
+
+Skills: Linear & Logistic Regressions; K Means; Decision Trees & Random Forests; Naive Bayes Classifier; XGBoost; General Neural Network; Convolutional Neural Network.
+
+Tools: JavaScript; Python (NumPy, Pandas, Statsmodels, Scikit-Learn, Matplotlib); TensorFlow.
 
 ## Work Experiences
 2+ years of experiences in data science field (part-time & full-time combined).
