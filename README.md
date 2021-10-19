@@ -12,9 +12,9 @@ Envision of creating the own idealized world with a cat.
 
 Big Data practitioner. 
 
-Specialization Certificate in Deep Learning (DeepLearning.AI), in progress.
+Certificate in Deep Learning (DeepLearning.AI), in progress.
 
-Postgraduate Certificate in Artificial Intelligence and Machine Learning (University of Texas at Austin: McCombs School of Business).
+Certificate in Artificial Intelligence and Machine Learning (University of Texas at Austin: McCombs School of Business).
 
 Projects: Algorithm Solutions; Machine Learning Prediction Models; Image Classifications.
 
