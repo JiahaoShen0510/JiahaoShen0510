@@ -23,9 +23,9 @@ Tools: JavaScript; Python (NumPy, Pandas, Statsmodels, Scikit-Learn, Matplotlib)
 ## Work Experiences
 2+ years of experiences in data science field (part-time & full-time combined).
 
-Currently hold the assistant position in data analysis at a Houston leading real estate company. 
+Currently preparing for the career transition into Fukuoka, Japan.
 
-Also have the work experiences in Real Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Environment.
+Have the prior work experiences in Rea; Estate Data Analysis, Real Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Environment.
 
 ## Practitioner for the Virtual Worlds
 Certificate in Virtual Reality (Goldsmiths, University of London)
