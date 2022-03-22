@@ -14,6 +14,8 @@ Big Data practitioner.
 
 Certificate in Artificial Intelligence and Machine Learning (University of Texas at Austin: McCombs School of Business).
 
+Certificate in FinTech Revolution: Transformative Financial Services and Strategies (University of Pennsylvania: The Wharton School)
+
 Projects: Algorithm Solutions; Machine Learning Prediction Models; Image Classifications.
 
 Skills: Linear & Logistic Regressions; K Means; Decision Trees & Random Forests; Naive Bayes Classifier; XGBoost; General Neural Network; Convolutional Neural Network.
