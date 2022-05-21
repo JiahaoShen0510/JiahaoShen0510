@@ -23,7 +23,7 @@ Skills: Linear & Logistic Regressions; K Means; Decision Trees & Random Forests;
 Tools: JavaScript; Python (NumPy, Pandas, Statsmodels, Scikit-Learn, Matplotlib); TensorFlow.
 
 ## Work Experiences
-2+ years of experiences in data science field (part-time & full-time combined).
+3+ years of experiences in data science field (part-time & full-time combined).
 
 Currently preparing for the career transition into Fukuoka, Japan.
 Also working part-time for Kazu Hiro 和宏，a family real-estate investment company that based in Fukuoka City, and worked as the strategic consultant that responsible for property management, financial investment and the web development. The full website is in development that solely under my works. 
