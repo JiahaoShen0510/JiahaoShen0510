@@ -26,7 +26,7 @@ Tools: JavaScript; Python (NumPy, Pandas, Statsmodels, Scikit-Learn, Matplotlib)
 2+ years of experiences in data science field (part-time & full-time combined).
 
 Currently preparing for the career transition into Fukuoka, Japan.
-Working part-time for Kazu Hiro 和宏，a family real-estate investment company that based in Fukuoka City, and worked as the strategic consultant that responsible for property management, financial investment and the web development. The full website is in development that solely under my works. 
+Also working part-time for Kazu Hiro 和宏，a family real-estate investment company that based in Fukuoka City, and worked as the strategic consultant that responsible for property management, financial investment and the web development. The full website is in development that solely under my works. 
 
 Have the prior work experiences in Rea; Estate Data Analysis, Real Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Preservation.
 
