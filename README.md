@@ -27,8 +27,9 @@ Tools: JavaScript; Python (NumPy, Pandas, Statsmodels, Scikit-Learn, Matplotlib)
 
 Currently preparing for the career transition into Fukuoka, Japan.
 Also working part-time for Kazu Hiro 和宏，a family real-estate investment company that based in Fukuoka City, and worked as the strategic consultant that responsible for property management, financial investment and the web development. The full website is in development that solely under my works. 
+As well as serving as the web development assistant for Realm Real Estate Professionals, working on building the full-fledged website to display the outstanding real-estate investing opportunities and with the integration of state-of-art big data techniques to offer the accurate and updated price and ROI information and knowledge.
 
-Have the prior work experiences in Rea; Estate Data Analysis, Real Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Historical Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Preservation.
+Have the prior work experiences in Real-Estate Data Analysis, Real Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Historical Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Preservation.
 
 ## Practitioner for the Virtual Worlds
 Certificate in Virtual Reality (Goldsmiths, University of London)
