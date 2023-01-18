@@ -23,7 +23,7 @@ Skills: Linear & Logistic Regressions; K Means; Decision Trees & Random Forests;
 Tools: JavaScript; Python (NumPy, Pandas, Statsmodels, Scikit-Learn, Matplotlib); TensorFlow.
 
 ## Work Experiences
-3+ years of experiences in data science field (part-time & full-time combined).
+4+ years of experiences in data science field (part-time & full-time combined).
 
 Currently preparing for the career transition into Fukuoka, Japan.
 
@@ -71,5 +71,3 @@ Linkedin: www.linkedin.com/in/jiahao-shen-19940510
 Facebook: https://www.facebook.com/jiahaoshen0510/
 
 Instagram: https://www.instagram.com/jiahaoshen0510/
-
-Linktree: https://linktr.ee/jiahaoshen
