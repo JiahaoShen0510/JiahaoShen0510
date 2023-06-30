@@ -12,6 +12,8 @@ Envision of creating the own idealized world with a cat.
 
 Big Data practitioner. 
 
+Certificate in Full Stack Web Development (Caltech:Center for Technology and Management Education): In Progress.
+
 Certificate in Artificial Intelligence and Machine Learning (University of Texas at Austin: McCombs School of Business).
 
 Certificate in FinTech Revolution: Transformative Financial Services and Strategies (University of Pennsylvania: The Wharton School).
@@ -20,27 +22,14 @@ Projects: Algorithm Solutions; Machine Learning Prediction Models; Image Classif
 
 Skills: Linear & Logistic Regressions; K Means; Decision Trees & Random Forests; Naive Bayes Classifier; XGBoost; General Neural Network; Convolutional Neural Network.
 
-Tools: JavaScript; Python (NumPy, Pandas, Statsmodels, Scikit-Learn, Matplotlib); TensorFlow.
+Tools: JavaScript; Python (NumPy, Pandas, Statsmodels, Scikit-Learn, Matplotlib); TensorFlow; HTML; CSS.
 
 ## Work Experiences
-4+ years of experiences in data science field (part-time & full-time combined).
+2+ years of experiences in data science field (part-time & full-time combined).
 
 Currently preparing for the career transition into Fukuoka, Japan.
 
-Also working part-time for Kazu Hiro 和宏，a family real-estate investment company that based in Fukuoka City, and worked as the strategic consultant that responsible for property management, financial investment and the web development. The full website is in development that solely under my works. 
-
-As well as serving as the web development assistant for Realm Real Estate Professionals, working on building the full-fledged website to display the outstanding real-estate investing opportunities and with the integration of state-of-art big data techniques to offer the accurate and updated price and ROI information and knowledge.
-
 Have the prior work experiences in Real-Estate Data Analysis, Real Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Historical Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Preservation.
-
-## Practitioner for the Virtual Worlds
-Certificate in Virtual Reality (Goldsmiths, University of London)
-
-Certificate in Advanced Football Tactical Analysis (Barça Innovation Hub)
-
-Rely on the thorough immersion of the virtual football world and virtual open worlds, to reflect and conclude on the interdependence, intersectionality, and undisclosed interactions between the alternative reality and the perceived reality, and fundamentally balance and integrate myself to freely traverse between them with the carries of all the meanings behind them. 
-
-Dedicate to seamlessly connect the virtual worlds and world in reality, and ultimately being thrived in both of them through their established interdependence and interconnections, and meanwhile faithfully pursuing the co-living in that two kinds of worlds.
 
 ## Education History: King's College London (ongoing)
 Currently pursuing the Postgraduate studies of 
