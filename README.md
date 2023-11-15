@@ -20,9 +20,9 @@ Certificate in FinTech Revolution: Transformative Financial Services and Strateg
 
 Projects: Algorithm Solutions; Machine Learning Prediction Models; Image Classifications.
 
-Skills: Linear & Logistic Regressions; K Means; Decision Trees & Random Forests; Naive Bayes Classifier; XGBoost; General Neural Network; Convolutional Neural Network.
+Skills: Linear & Logistic Regressions; K Means; Decision Trees & Random Forests; Naive Bayes Classifier; XGBoost; General Neural Network; Convolutional Neural Network; Data Visualization.
 
-Tools: JavaScript; Python (NumPy, Pandas, Statsmodels, Scikit-Learn, Matplotlib); TensorFlow; HTML; CSS.
+Tools: JavaScript; Python (NumPy, Pandas, Statsmodels, Scikit-Learn, Matplotlib); TensorFlow; (HTML,CSS); Tableau.
 
 ## Work Experiences
 2+ years of experiences in data science field (part-time & full-time combined).
