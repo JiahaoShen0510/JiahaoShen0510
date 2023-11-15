@@ -12,7 +12,7 @@ Envision of creating the own idealized world with a cat.
 
 Big Data practitioner. 
 
-Certificate in Full Stack Web Development (Caltech:Center for Technology and Management Education): In Progress.
+Certificate in Data Analytics and Visualization (Purdue University): In Progress.
 
 Certificate in Artificial Intelligence and Machine Learning (University of Texas at Austin: McCombs School of Business).
 
