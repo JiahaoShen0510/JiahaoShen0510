@@ -27,6 +27,8 @@ Tools: JavaScript; Python (NumPy, Pandas, Statsmodels, Scikit-Learn, Matplotlib)
 ## Work Experiences
 2+ years of experiences in data science field (part-time & full-time combined).
 
+Working as the freelancer Data Analyst since November 2023, have total 1 project completed. Project included Data Visualization of local Houston Amazon Seller Product Sales. 
+
 Currently preparing for the career transition into Fukuoka, Japan.
 
 Have the prior work experiences in Real-Estate Data Analysis, Real Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Historical Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Preservation.
