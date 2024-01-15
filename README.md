@@ -39,8 +39,6 @@ Completed the whole K-12 Education at Shanghai Qingyun School (2000-2012).
 
 ## More Information
 
-Medium:  https://medium.com/@shenkcl
-
 Linkedin: www.linkedin.com/in/jiahao-shen-19940510
 
 Facebook: https://www.facebook.com/jiahaoshen0510/
