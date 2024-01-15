@@ -12,8 +12,6 @@ Envision of creating the own idealized world with a cat.
 
 Big Data practitioner. 
 
-Certificate in Data Analytics and Visualization (Purdue University): In Progress.
-
 Certificate in Artificial Intelligence and Machine Learning (University of Texas at Austin: McCombs School of Business).
 
 Certificate in FinTech Revolution: Transformative Financial Services and Strategies (University of Pennsylvania: The Wharton School).
@@ -27,23 +25,9 @@ Tools: JavaScript; Python (NumPy, Pandas, Statsmodels, Scikit-Learn, Matplotlib)
 ## Work Experiences
 2+ years of experiences in data science field (part-time & full-time combined).
 
-Working as the freelancer Data Analyst since November 2023, have total 2 project completed. 
-
-Currently preparing for the career transition into Fukuoka, Japan.
-
 Have the prior work experiences in Real-Estate Data Analysis, Real Estate Management, Human Resource and Corporate Training, Education Quantitative Research, Library Historical Research and Digital Humanities, Museum Curation and Research, Special Education, and Natural Preservation.
 
-## Education History: King's College London (ongoing)
-Currently pursuing the Postgraduate studies of 
-International Affairs: Cyber Security and World History & Philosophy at King's College London.
-The studies are expected to be the symbol of culmination of my education journey. 
-
-Research Topics: Transformation of Multi-Civilizational World; Historical Interactions among Great Powers; Big Data Impacts on Political and Societal Structures;
-Historical Mind of Grand Strategy.
-
-All of the published works during my KCL studies could be accessed there: https://medium.com/@shenkcl
-
-## Education History: Other Higher Education
+## Education History:  Higher Education
 
 Previously studied in James Madison University with B.A. in History & Asian Studies (2014.1-2017.12), and University of Oklahoma with M.Ed. in Higher Education (2018.8-2020.12).
 
