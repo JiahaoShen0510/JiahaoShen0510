@@ -1,5 +1,5 @@
 ## Final Update:
-The Bid Data Journey has come to the end on November 2023 due to the significant career and life goals change. 
+The Bid Data Journey has come to the end on December 2023 due to the significant career and life goals change. 
 
 ## Introduction
 
