@@ -1,3 +1,5 @@
+## The Bid Data Journey has come to the end on journey on November 2023 due to the significant career and life goals change. 
+
 ## Introduction
 
 Also known as 沈嘉昊 in Chinese, and しんかこう in Japanese Hiragana. 
@@ -32,7 +34,7 @@ Have the prior work experiences in Real-Estate Data Analysis, Real Estate Manage
 Previously studied in James Madison University with B.A. in History & Asian Studies (2014.1-2017.12), and University of Oklahoma with M.Ed. in Higher Education (2018.8-2020.12).
 
 ## Education History: Other Education
-Currently receiving the Japanese language training at Fukuoka International Academy (since 2021.7), as the necessary part of transitioning the life into Fukuoka, Japan. 
+Completed Japanese language training at Fukuoka International Academy (2022.4-2024.3), as the necessary part of transitioning the life into Fukuoka, Japan. 
 
 Completed the whole K-12 Education at Shanghai Qingyun School (2000-2012).
 
